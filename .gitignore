@@ -1,0 +1,5 @@
+# SSL certificates
+/etc/ssl
+
+# Site folder
+/web/public
